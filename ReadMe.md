@@ -12,7 +12,7 @@ I'm currently a senior at UT-San Antonio double majoring in Computer Science (co
 ![](https://nirzak-streak-stats.vercel.app/?user=AlessandroEspinosa2003&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroEspinosa2003&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlessandroEspinosa2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
