@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a senior at UT-San Antonio double majoring in Computer Science (consc. SWE & DS) and Software Engineering with a minor in Math. <br>I've previously interned at MITRE (SysEng), Uber(SWE), and FICO(SWE). <br>I'm currently exploring mobile development and microservice architecture (love to learn from any&everyone)!<br>I'm also interested in Machine Learning and its real-word applications!<br>In my spare time I play basketball, bowl, and collect VHS tapes!
+I'm currently a senior at UT-San Antonio double majoring in Computer Science (consc. SWE & DS) and Software Engineering with a minor in Math. <br>I've previously interned at MITRE (SysEng), Uber(SWE), and FICO(SWE). <br>I'm currently exploring mobile development, machine learning, and microservice architecture (love to learn from any&everyone)!<br>I'm also interested in Machine Learning and its real-word applications!<br>In my spare time I play basketball, bowl, and collect VHS tapes!
 
 
 ## 🌐 Socials:
