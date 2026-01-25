@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a senior at UT-San Antonio double majoring in Computer Science (consc. SWE & DS) and Software Engineering with a minor in Math.<br>I'm currently a Data Science Intern at CPS Energy. <br>I've previously interned at MITRE (SysEng), Uber(SWE), FICO(SWE), and The Better Futures Institute (Civic Technology). <br>Recently, I've exploring mobile development, machine learning, and microservice architecture. <br>I'm someone who loves learning from anyone and everyone!<br>In my spare time I play basketball, bowl, and collect VHS tapes!
+Currently a senior at UT-San Antonio double majoring in Computer Science (consc. SWE & DS) and Software Engineering with a minor in Math.<br>I'm currently a Data Science Intern at CPS Energy. <br>I've previously interned at MITRE (SysEng), Uber(SWE), FICO(SWE), and The Better Futures Institute (Civic Technology). <br>Recently, I've exploring mobile development, machine learning, and microservice architecture. <br>I'm someone who loves learning from anyone and everyone!<br>In my spare time I play basketball, bowl, and collect VHS tapes!
 
 
 ## 🌐 Socials:
